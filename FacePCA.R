@@ -1,3 +1,4 @@
+# practice PCA in R
 setwd("G:\\RWDir")
 load("face.rda")
 image(t(faceData)[, nrow(faceData):1])
